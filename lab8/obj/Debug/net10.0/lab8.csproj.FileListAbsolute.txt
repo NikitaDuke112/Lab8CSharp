@@ -1,0 +1,14 @@
+/Users/nikitaduke/University/CSharp/lab8/lab8/bin/Debug/net10.0/lab8
+/Users/nikitaduke/University/CSharp/lab8/lab8/bin/Debug/net10.0/lab8.deps.json
+/Users/nikitaduke/University/CSharp/lab8/lab8/bin/Debug/net10.0/lab8.runtimeconfig.json
+/Users/nikitaduke/University/CSharp/lab8/lab8/bin/Debug/net10.0/lab8.dll
+/Users/nikitaduke/University/CSharp/lab8/lab8/bin/Debug/net10.0/lab8.pdb
+/Users/nikitaduke/University/CSharp/lab8/lab8/obj/Debug/net10.0/lab8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitaduke/University/CSharp/lab8/lab8/obj/Debug/net10.0/lab8.AssemblyInfoInputs.cache
+/Users/nikitaduke/University/CSharp/lab8/lab8/obj/Debug/net10.0/lab8.AssemblyInfo.cs
+/Users/nikitaduke/University/CSharp/lab8/lab8/obj/Debug/net10.0/lab8.csproj.CoreCompileInputs.cache
+/Users/nikitaduke/University/CSharp/lab8/lab8/obj/Debug/net10.0/lab8.dll
+/Users/nikitaduke/University/CSharp/lab8/lab8/obj/Debug/net10.0/refint/lab8.dll
+/Users/nikitaduke/University/CSharp/lab8/lab8/obj/Debug/net10.0/lab8.pdb
+/Users/nikitaduke/University/CSharp/lab8/lab8/obj/Debug/net10.0/lab8.genruntimeconfig.cache
+/Users/nikitaduke/University/CSharp/lab8/lab8/obj/Debug/net10.0/ref/lab8.dll
